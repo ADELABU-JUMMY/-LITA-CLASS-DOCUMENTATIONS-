@@ -44,21 +44,25 @@ FIRST PROJECT WITH INCUBATOR HUB
   ### Exploratory Data Analysis
   It involved the exploring of the data to answer some questions about the data such as
   - getting the sum and Average values using the SUM,AVERAGE fuunctions e.g 
-
+```
  =sum(A1:A35) =AVERAGE(A1:A35)
-
+```
     
 - getting the top ten highest and lowest sallers using the MAXIFS,MINIFS functions
 
  ---
  ### Data Analysis
- This is where we include basic lines of code or queries or even some of the DAX expressions used during data analysis;
-    SQL
-    SELECT * FROM TABLE
-    WHERE CONDITION =TRUE
-
+ This is where we include basic lines of code or queries or even some of the Database expressions[DAX] used during data analysis;
+ 
+    ----SQL---
+ ```
+  SELECT * FROM TABLE
+ WHERE CONDITION =TRUE
+```
     
------
+
+---
+
 ### Data Visualization
 
 
