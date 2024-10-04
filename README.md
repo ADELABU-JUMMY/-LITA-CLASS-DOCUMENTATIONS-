@@ -54,7 +54,8 @@ FIRST PROJECT WITH INCUBATOR HUB
  ### Data Analysis
  This is where we include basic lines of code or queries or even some of the Database expressions[DAX] used during data analysis;
  
-    ----SQL---
+ ---SQL---
+    
  ```
   SELECT * FROM TABLE
  WHERE CONDITION =TRUE
