@@ -13,7 +13,7 @@ FIRST PROJECT WITH INCUBATOR HUB
 ---
 ### PROJECT OVERVIEW
 
-## This data analysis project aims to provide comprehensive insights into the process of cleaning, analyzing, and visualizing data using tools such as Excel, Sql and Power BI. By leveraging these platforms I gained hand-on experience in manipulating datasets, performing advanced queries and creating intractive visualizations, The project enabled a deeper understanding of data analysis techniques and tools, equipping me with the skills neccessary to derive meaningful insights and make data-driven decisions
+## This data analysis project aims to provide comprehensive insights into the process of cleaning, analyzing, and visualizing data using tools such as Excel, SQL and Power BI. By leveraging these platforms I gained hand-on experience in manipulating datasets, performing advanced queries and creating interactive  visualizations, The project enabled a deeper understanding of data analysis techniques and tools, equipping me with the skills neccessary to derive meaningful insights and make data-driven decisions
 
 ### DATA SOURCE
 
