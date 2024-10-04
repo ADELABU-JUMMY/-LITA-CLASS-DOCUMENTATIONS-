@@ -68,15 +68,19 @@ FIRST PROJECT WITH INCUBATOR HUB
 
 ![WhatsApp Image 2024-10-02 at 19 26 56_cd7c00c0](https://github.com/user-attachments/assets/edf64201-db51-4107-8425-17d417107f9f)
 
+### The picture above shows the use of proper case, upper case, lower case and trim functions.
 
 
 ![USING AMPERSAND TO JOIN TEXT](https://github.com/user-attachments/assets/c40cee9f-20d0-4be5-9b36-6235900f1d33)
 
+### The picture above use the use of the ampersand sign to join words together getting the email of the workers. 
 
 ![using pivot table](https://github.com/user-attachments/assets/caf780c0-8f07-4c50-9817-0c1adbea9b48)
+
+### The picture above shows how pivot table can be use to analyze information
 
 
 ![WhatsApp Image 2024-10-02 at 19 29 08_687b767f](https://github.com/user-attachments/assets/290a4470-60ca-4801-9b89-7882cb7a7241)
 
-
+### Here I analyzed the into a charts same as the image below.
 ![WhatsApp Image 2024-10-02 at 19 28 08_07fdb066](https://github.com/user-attachments/assets/fac307d8-f1b6-40da-a464-1c5c9303049c)
