@@ -66,19 +66,17 @@ FIRST PROJECT WITH INCUBATOR HUB
 
 ### Data Visualization
 
-
-![WhatsApp Image 2024-10-02 at 19 26 56_cd7c00c0](https://github.com/user-attachments/assets/10d71a70-fca2-4623-9451-bacdb6697681)
-
-
-![USING AMPERSAND TO JOIN TEXT](https://github.com/user-attachments/assets/7d4f27da-e8ae-4a55-9764-6be26ec46856)
+![WhatsApp Image 2024-10-02 at 19 26 56_cd7c00c0](https://github.com/user-attachments/assets/edf64201-db51-4107-8425-17d417107f9f)
 
 
-![using pivot table](https://github.com/user-attachments/assets/0535c6b4-5ec7-436d-b91b-f29ceb89b078)
+
+![USING AMPERSAND TO JOIN TEXT](https://github.com/user-attachments/assets/c40cee9f-20d0-4be5-9b36-6235900f1d33)
 
 
-![WhatsApp Image 2024-10-02 at 19 28 08_07fdb066](https://github.com/user-attachments/assets/daf2c8b9-1c73-4f85-9325-b42c181eb90e)
+![using pivot table](https://github.com/user-attachments/assets/caf780c0-8f07-4c50-9817-0c1adbea9b48)
 
 
-![WhatsApp Image 2024-10-02 at 19 29 08_687b767f](https://github.com/user-attachments/assets/c9a19b53-b339-4434-9a6f-9682ddb61911)
+![WhatsApp Image 2024-10-02 at 19 29 08_687b767f](https://github.com/user-attachments/assets/290a4470-60ca-4801-9b89-7882cb7a7241)
 
 
+![WhatsApp Image 2024-10-02 at 19 28 08_07fdb066](https://github.com/user-attachments/assets/fac307d8-f1b6-40da-a464-1c5c9303049c)
