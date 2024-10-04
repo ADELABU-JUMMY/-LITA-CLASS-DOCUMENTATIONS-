@@ -66,8 +66,12 @@ FIRST PROJECT WITH INCUBATOR HUB
 
 ### Data Visualization
 ![USING THE SUM,AVERAGE,MAX,MIN,COUNTA,LARGE AND SMALL FUNCTIONS](https://github.com/user-attachments/assets/d2a1e0e4-5041-445b-806f-983942a0416a)
+
 ### The image above shows the use of SUM,AVERAGE,MAX, MIN, COUNTA, LARGE AND SMALL FUNCTIONS
 
+![USING THE IFS FUNCTIONS](https://github.com/user-attachments/assets/dd6246f0-c1ba-4953-85d2-190c4f8def65)
+
+### The image above shows the use of IF(S) functions to get the questions asked
 
 ![WhatsApp Image 2024-10-02 at 19 26 56_cd7c00c0](https://github.com/user-attachments/assets/edf64201-db51-4107-8425-17d417107f9f)
 
