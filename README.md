@@ -65,6 +65,9 @@ FIRST PROJECT WITH INCUBATOR HUB
 ---
 
 ### Data Visualization
+![USING THE SUM,AVERAGE,MAX,MIN,COUNTA,LARGE AND SMALL FUNCTIONS](https://github.com/user-attachments/assets/d2a1e0e4-5041-445b-806f-983942a0416a)
+### The image above shows the use of SUM,AVERAGE,MAX, MIN, COUNTA, LARGE AND SMALL FUNCTIONS
+
 
 ![WhatsApp Image 2024-10-02 at 19 26 56_cd7c00c0](https://github.com/user-attachments/assets/edf64201-db51-4107-8425-17d417107f9f)
 
@@ -83,4 +86,5 @@ FIRST PROJECT WITH INCUBATOR HUB
 ![WhatsApp Image 2024-10-02 at 19 29 08_687b767f](https://github.com/user-attachments/assets/290a4470-60ca-4801-9b89-7882cb7a7241)
 
 ### Here I analyzed the pivot tables into a chart same as the image below.
+
 ![WhatsApp Image 2024-10-02 at 19 28 08_07fdb066](https://github.com/user-attachments/assets/fac307d8-f1b6-40da-a464-1c5c9303049c)
