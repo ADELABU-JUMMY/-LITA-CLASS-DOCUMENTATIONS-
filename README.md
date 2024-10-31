@@ -8,7 +8,7 @@ FIRST PROJECT WITH INCUBATOR HUB
  
  [TOOLS USED](#tools-used)
 
- 
+[DATA CLEANING AND PREPARATIONS](data-cleaning-and-preparations) 
 
 ---
 ### ***PROJECT OVERVIEW***
@@ -57,8 +57,9 @@ FIRST PROJECT WITH INCUBATOR HUB
 
  ---
 
+***Exploring With Excel***
 
- #### Analyzing Sales Data.
+ #### Analyzing Sales Data In Excel:
 
 - ***Region and Market:*** Understanding the geographical and market contexts can help identify high-performing areas and potential growth opportunities.
 
