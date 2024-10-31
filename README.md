@@ -8,9 +8,8 @@ FIRST PROJECT WITH INCUBATOR HUB
  
  [TOOLS USED](#tools-used) 
  
- [DATA CLEANING AND PREPARATIONS](data-cleaning-and-preparations) 
 
- 
+ [EXPLORING WITH EXCEL](#exploring-with-excel)
 
 ---
 ### ***PROJECT OVERVIEW***
