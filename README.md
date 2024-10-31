@@ -8,8 +8,7 @@ FIRST PROJECT WITH INCUBATOR HUB
  
  [TOOLS USED](#tools-used) 
  
-
- [EXPLORING WITH EXCEL](#exploring-with-excel)
+ [EXPLORING WITH EXCEL](#exploring-excel)
 
 ---
 ### ***PROJECT OVERVIEW***
