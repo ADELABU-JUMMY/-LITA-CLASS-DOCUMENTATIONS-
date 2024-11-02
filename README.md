@@ -76,7 +76,8 @@ FIRST PROJECT WITH INCUBATOR HUB
 - ***Model:*** Identifies the product involved, which is essential for product-specific performance reviews.
 
 - ***Line of Business:*** Shows the type of business activity, helping categorize the transactions and understand the nature of sales.
-Day Category: Differentiates between sales on workdays and public holidays, useful for analyzing the impact of holidays on sales.
+  
+- ***Day Category:*** Differentiates between sales on workdays and public holidays, useful for analyzing the impact of holidays on sales.
 
 - ***Revenue:*** Provides the financial outcome of each transaction, critical for assessing the overall financial health and profitability.
 
@@ -271,3 +272,6 @@ The combination of these pivot charts and the interactive slicer offers a compre
 ***QUERIES USED IN SQL TO CREATE,MANIPULATE AND ANALYZE EMPLOYEE TABLE.***
 
  Here I starting with the creation of a table called EMPLOYEE. This foundational step involved defining various columns to store employee-related data. Once the table was set up, I began experimenting with different SQL operations. using aggregate functions like ***SUM(), AVG(), COUNT(),*** and more to perform arithmetic operations on the data. To further enhance my skills, I explored SQL operational functions to ***join tables, unite datasets,*** and analyze the information. These operations allowed me to combine data from multiple sources,***Like joining the employee table to salary table*** create unions of datasets, and draw meaningful insights from the table. Through this approach, I built a solid understanding of SQL and its powerful data manipulation capabilities.
+
+
+ 
