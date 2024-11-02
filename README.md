@@ -27,7 +27,11 @@ FIRST PROJECT WITH INCUBATOR HUB
 1. ***For data cleaning***
 2. ***For Analysis***
 3. ***For data visualization***
+   
 - ***SQL-STRUCTURE QUERY LANGUAGE for Querying Data***
+  
+  
+- ***PowerBI***
 
 ---
  ### ***Data Cleaning and Preparations***
@@ -37,7 +41,7 @@ FIRST PROJECT WITH INCUBATOR HUB
 - ***Imported datasets and examined them for quality and structure***.
 
 2. ***Handling missing variables***
-- ***Identified and addressed mising values to maintain data integrity***
+- ***Identified and addressed missing values to maintain data integrity***
 
 3. ***Data cleaning and formatting***
 - ***Applied formatting rules and standardized data entries to ensure consistency***.    
@@ -59,7 +63,7 @@ FIRST PROJECT WITH INCUBATOR HUB
 
  ---
 
-***Exploring With Excel***
+
 
  #### Analyzing Sales Data In Excel:
 
@@ -250,8 +254,9 @@ The combination of these pivot charts and the interactive slicer offers a compre
 
 
   
- ### Data Analysis
- This section we included basic lines of code or queries or even some of the Database expressions[DAX] used during data analysis;
+ ### Data Analysis With SQL And Power BI.
+ 
+ This section we included basic lines of code or queries using ***SQL*** and some of the Database expressions[DAX] used during data analysis with ***POWER BI***
  
  ---SQL Example---
     
@@ -263,44 +268,6 @@ The combination of these pivot charts and the interactive slicer offers a compre
 
 ---
 
-### Data Visualization With Excel
+***QUERIES USED IN SQL TO CREATE,MANIPULATE AND ANALYZE EMPLOYEE TABLE.***
 
-1. #### ***Here I used IFS Function to analyze the Business transaction category with the unit sold for all stores***.
-
-![WhatsApp Image 2024-10-09 at 15 16 54_05f65358](https://github.com/user-attachments/assets/535a2512-beef-466b-8035-bfafa04dc01f)
-
-2. #### ***Here the LOOKUP Function was used to get salary payment for all staff based on their Grade level using the simply salary structure***.
-
-![WhatsApp Image 2024-10-09 at 15 16 55_e2ffe7f6](https://github.com/user-attachments/assets/195e7913-2548-4386-9fe2-3ea8e3962c3a)
-
-#### THE USE OF PIVOT TABLE IN EXCEL TO ANALYZE DATA
-
-3. #### ***Here I got the Top five(5) market based on Revenue and the Bottom five(5) stores based on the unit sold***.
-  
-![WhatsApp Image 2024-10-09 at 15 16 57_f222d3fd](https://github.com/user-attachments/assets/892ac921-8035-4346-b919-307a2eb5b5cb)
-
-4. #### ***Here the total Revenue for each year was analyzed***
-
-![WhatsApp Image 2024-10-09 at 15 16 56_8e6ea251](https://github.com/user-attachments/assets/f63b5d19-75cd-472c-8683-ec6ced5ec5fa)
-
-#### Analyzing the business performance using Pivot chart
-5. ### ***Performance for 2014***
-
-![WhatsApp Image 2024-10-09 at 15 16 58_3fd8df32](https://github.com/user-attachments/assets/f7ff625d-7a8a-4fad-ae06-f1485f9ce789)
-
-6. ### ***Performance for 2015***
-
-![WhatsApp Image 2024-10-09 at 15 16 59_1d97a46a](https://github.com/user-attachments/assets/d8347235-9c7d-4c86-ad42-ad820be4732f)
-
-### Data Visualization Using SQL(Structured Query Language)
-
-7. #### ***created a table for employees in an organisation***.
-  
-![WhatsApp Image 2024-10-09 at 15 16 54_d308a6b2](https://github.com/user-attachments/assets/b7d53fa4-2d6e-476e-a60a-20c22ecfcefc)
-
- ### ***using SQL statement to manipulate my table***.
-![WhatsApp Image 2024-10-09 at 15 16 54_2362eef3](https://github.com/user-attachments/assets/11036980-ebe6-4084-8c09-57310a70de43)
-
-#### ***Using aggregate functions***.
-  
-![WhatsApp Image 2024-10-09 at 15 16 54_4e0902fd](https://github.com/user-attachments/assets/bda860d1-09b3-4f1e-acc9-a160357b2141)
+ Here I starting with the creation of a table called EMPLOYEE. This foundational step involved defining various columns to store employee-related data. Once the table was set up, I began experimenting with different SQL operations. using aggregate functions like ***SUM(), AVG(), COUNT(),*** and more to perform arithmetic operations on the data. To further enhance my skills, I explored SQL operational functions to ***join tables, unite datasets,*** and analyze the information. These operations allowed me to combine data from multiple sources,***Like joining the employee table to salary table*** create unions of datasets, and draw meaningful insights from the table. Through this approach, I built a solid understanding of SQL and its powerful data manipulation capabilities.
