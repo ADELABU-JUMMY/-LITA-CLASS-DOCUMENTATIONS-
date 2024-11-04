@@ -273,5 +273,14 @@ The combination of these pivot charts and the interactive slicer offers a compre
 
  Here I starting with the creation of a table called EMPLOYEE. This foundational step involved defining various columns to store employee-related data. Once the table was set up, I began experimenting with different SQL operations. using aggregate functions like ***SUM(), AVG(), COUNT(),*** and more to perform arithmetic operations on the data. To further enhance my skills, I explored SQL operational functions to ***join tables, unite datasets,*** and analyze the information. These operations allowed me to combine data from multiple sources,***Like joining the employee table to salary table*** create unions of datasets, and draw meaningful insights from the table. Through this approach, I built a solid understanding of SQL and its powerful data manipulation capabilities.
 
+ ***IMAGE OF QURIES USED TO MANIPUALATE THE DATABASE***
 
  
+![Screenshot 2024-11-04 114844](https://github.com/user-attachments/assets/d6486ce8-6c83-44fd-ab6a-52107a7a1fa9)
+
+
+
+![Screenshot 2024-11-04 115030](https://github.com/user-attachments/assets/8300752e-7271-405e-96bf-e76e5d7c0e02)
+
+
+![Screenshot 2024-11-04 115207](https://github.com/user-attachments/assets/a2cdb230-1026-488c-bdca-714620387948)
