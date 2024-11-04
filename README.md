@@ -15,7 +15,7 @@ FIRST PROJECT WITH INCUBATOR HUB
 
 ### ***PROJECT OVERVIEW***
 
- ***This data analysis project aims to provide comprehensive insights into the process of cleaning, analyzing, and visualizing data using tools such as Excel, SQL and Power BI. By leveraging these platforms I gained hand-on experience in manipulating datasets, performing advanced queries and creating interactive  visualizations, The project enabled a deeper understanding of data analysis techniques and tools, equipping me with the skills neccessary to derive meaningful insights and make data-driven decisions***
+ ***This data analysis project aims to provide comprehensive insights into the process of cleaning, analyzing, and visualizing data using tools such as Excel, SQL and Power BI. By leveraging these platforms I gained hand-on experience in manipulating datasets,performing advanced queries and creating interactive  visualizations, The project enabled a deeper understanding of data analysis techniques and tools, equipping me with the skills neccessary to derive meaningful insights and make data-driven decisions***
 
 ### ***DATA SOURCE***
 
@@ -34,7 +34,7 @@ FIRST PROJECT WITH INCUBATOR HUB
 - ***PowerBI***
 
 ---
- ### ***Data Cleaning and Preparations***
+ #### ***Data Cleaning and Preparations***
   ***In the inital phase of the data cleaning and preparations we performed the following actions***
   
 1. ***Data Loading and Inspection***
@@ -47,15 +47,15 @@ FIRST PROJECT WITH INCUBATOR HUB
 - ***Applied formatting rules and standardized data entries to ensure consistency***.    
     
 ---
-  ### ***Exploratory Data Analysis***
+  #### ***Exploratory Data Analysis***
   ***This phase involved exploring of the data to answer some specific questions, including***:
-  - ## ***calculating SUM and AVERAGE Values, using functions such as***:
+  -  ***calculating SUM and AVERAGE Values, using functions such as***:
 ```
  =sum(A1:A35)
  =AVERAGE(A1:A35)
 ```
     
-- ### ***Identifying Top Ten Highest and Lowest Sallers,using functions like***:
+-  ***Identifying Top Ten Highest and Lowest Sallers,using functions like***:
 ```
  =MAXIFS(range, criteria_range, criteria)
  =MINIFS(range, criteria_range, criteria)
@@ -284,3 +284,41 @@ The combination of these pivot charts and the interactive slicer offers a compre
 
 
 ![Screenshot 2024-11-04 115207](https://github.com/user-attachments/assets/a2cdb230-1026-488c-bdca-714620387948)
+
+
+
+
+### ***POWER BI (Power Business Intelligence)***
+
+Here the aim to understand data better and to create meaningful visualizations. I installed Power BI Desktop and began exploring its interface, learning the basics by navigating through its various panes and views.
+
+#### Exploring Basic Concepts
+
+***First Dataset:*** I started with a simple Excel file containing sales data. Importing this into Power BI, I learned how to connect to data sources and bring data into the Power BI environment.
+
+***Power Query Editor:*** Next, I delved into Power Query Editor, a powerful tool within Power BI for cleaning and transforming data. I practiced removing duplicates, filtering rows, and creating new columns, which was essential for preparing my data for analysis.
+
+#### Building Basic Visualizations
+
+***Creating Visuals:*** With my cleaned data, I began creating basic visualizations. I experimented with bar charts, line charts, and pie charts, using my sales data to understand how different visuals could represent the data effectively.
+
+***Using Different Datasets:*** To broaden my skills, I imported various datasets, such as stock prices and weather data. This exposed me to different data structures and helped me learn to create visualizations tailored to each dataset.
+
+***Advanced Visualizations and Features***
+Relationships: I then explored creating relationships between different tables. For example, I linked sales data with customer demographics, allowing me to perform more complex analyses and visualize interconnected data.
+
+***Calculated Columns and Measures:*** Using calculated columns and measures, I learned to perform advanced calculations. For instance, calculating total sales per region helped me understand the power of DAX (Data Analysis Expressions).
+
+#### Interactive Dashboards
+
+***Creating Dashboards:*** Combining multiple visuals, I created interactive dashboards that provided comprehensive insights. I added slicers and filters to make the dashboards dynamic and user-friendly.
+
+***Publishing to Power BI Service:*** I published my dashboards to the Power BI service, enabling me to access them from anywhere and share them with others.
+
+#### Advanced Techniques
+
+***Real-Time Data:*** Integrating real-time data feeds, such as social media metrics, showed me how Power BI handles live data, making my dashboards even more relevant and timely.
+
+***Custom Visuals:*** I explored the Power BI marketplace for custom visuals, adding unique charts and maps to my reports, enhancing the overall appeal and functionality of my dashboards.
+
+#### VISUALIZATION 
