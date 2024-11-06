@@ -321,4 +321,4 @@ Relationships: I then explored creating relationships between different tables. 
 
 ***Custom Visuals:*** I explored the Power BI marketplace for custom visuals, adding unique charts and maps to my reports, enhancing the overall appeal and functionality of my dashboards.
 
-#### VISUALIZATION 
+#### Analysis Of Sales Table 
