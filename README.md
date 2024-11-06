@@ -321,4 +321,259 @@ Relationships: I then explored creating relationships between different tables. 
 
 ***Custom Visuals:*** I explored the Power BI marketplace for custom visuals, adding unique charts and maps to my reports, enhancing the overall appeal and functionality of my dashboards.
 
-#### Analysis Of Sales Table 
+#### Analysis Of The HR Data: 
+
+***Overview***
+The table provides detailed information about employees, including their attrition status, travel frequency, age band, attrition label, department, education field, employee number, gender, job role, and marital status. I used this data to understanding employee demographics, attrition rates, and various HR-related metrics.
+
+***DASHBOARD EXPLANATION:***
+
+The dashboard titled "LADIES IN TECH HR DATA ANALYSIS TRACKER" provides a comprehensive overview of employee attrition in the company. Here are the key highlights:
+
+Key Metrics:
+Total Number of Employees: 1,470
+
+Total Number of Attrition Count: 237
+
+Total Number of Current Employees: 1,233
+
+Attrition Rate: 16%
+
+Average Age: 37
+
+Attrition Count by Department:
+HR: 12
+
+Sales: 92
+
+R&D: 133
+
+Attrition Count by Education Field:
+
+
+
+Attrition Count by Education Field:
+Life Sciences: 89
+
+Medical: 63
+
+Marketing: 35
+
+Technical Degree: 32
+
+Other: 11
+
+Human Resources: 7
+
+Count of Attrition by Gender:
+Male: 588 (40%)
+
+Female: 882 (60%)
+
+Attrition Based on Age Group and Gender:
+Under 25:
+
+Female: 20
+
+Male: 38
+
+25-34:
+
+Female: 69
+
+Male: 112
+
+35-44:
+
+Female: 37
+
+Male: 51
+
+45-54:
+
+Female: 16
+
+Male: 25
+
+Over 55:
+
+Female: 8
+
+Male: 9
+
+Key Insights:
+The attrition rate stands at 16%, with a total of 237 employees having left the company.
+
+Sales and R&D departments have the highest attrition counts, indicating possible areas needing attention in terms of employee retention strategies.
+
+Life Sciences and Medical are the education fields with the most attrition
+suggesting a trend worth investigating further.
+
+Females constitute 60% of the total employees, but the overall attrition count shows more males leaving compared to females.
+
+The 25-34 age group has the highest attrition, particularly among males, highlighting a critical demographic for retention efforts.
+
+This visualization helps the company understand the distribution and trends in employee attrition, guiding strategic decisions to improve retention and address specific areas of concern.
+
+
+
+***Conclusion:***
+Impact of Attrition and Recommended Actions
+Impact of Attrition on the Company
+
+***Operational Disruption:***
+
+High attrition rates, particularly in key departments like Sales and R&D, can disrupt daily operations and impact project timelines and sales targets.
+
+***Increased Costs:***
+
+Recruiting and training new employees to replace those who leave is costly. These expenses can strain the company's budget and divert funds from other critical areas.
+
+***Loss of Expertise:***
+
+The departure of experienced employees means a loss of valuable knowledge and skills. This can affect the quality of work and slow down innovation and growth.
+
+***Employee Morale:***
+
+High attrition can lead to lower morale among remaining employees. Seeing colleagues leave frequently may cause stress and uncertainty, affecting overall productivity and workplace satisfaction.
+
+***Customer Satisfaction:***
+
+Inconsistent staffing, especially in customer-facing roles, can lead to lower service quality and negatively impact customer relationships and satisfaction.
+
+
+***Recommended Actions to Address Attrition***
+
+
+- ***Improve Employee Engagement:**
+
+Develop programs that foster employee engagement and satisfaction. Regular surveys to gather feedback can help identify issues early. Recognition programs, team-building activities, and opportunities for career growth can boost morale and retention.
+
+- ***Competitive Compensation:***
+
+Ensure that compensation and benefits packages are competitive within the industry. Regularly reviewing and adjusting salaries, bonuses, and benefits can help retain talent.
+
+- ***Career Development Opportunities:***
+
+Offer clear career paths and professional development opportunities. Providing training, mentorship programs, and promoting from within can motivate employees to stay with the company.
+
+- ***Work-Life Balance:***
+
+Promote a healthy work-life balance by offering flexible working hours, remote work options, and ensuring reasonable workload expectations. This helps reduce burnout and increases job satisfaction.
+
+- ***Improve Onboarding Processes:***
+
+Enhance the onboarding process to ensure new hires are well-integrated and feel welcomed. A strong onboarding process helps new employees acclimate faster and more effectively.
+
+- ***Monitor and Analyze Attrition Data:***
+
+Continuously monitor attrition rates and analyze data to identify trends and underlying causes. This proactive approach can help address issues before they become significant problems.
+
+By implementing these strategies, the company can reduce attrition, retain valuable talent, and create a more stable and productive workforce. This, in turn, will lead to improved operational efficiency, lower costs, and higher employee and customer satisfaction.
+
+
+***EXPLANATION OF DASHBOARD TWO***
+
+**Overview**
+
+The dashboard provides an extensive analysis of employee demographics, attrition rates, job roles, education fields, job satisfaction levels, and marital status. It's designed to offer a comprehensive view of the workforce to support HR analytics and decision-making.
+
+***Sections and Visualizations***
+
+1. Count of Current Employees by Age Band and Gender
+Type: Bar Chart
+
+***Description:*** This chart displays the number of current employees categorized by age bands and gender. The age bands include Under 25, 25-34, 35-44, 45-54, and Over 55. Gender is represented by different colors (Female and Male).
+
+***Key Insight:*** Helps identify the distribution of employees across different age groups and gender, highlighting potential diversity and age demographic trends within the workforce.
+
+2. Job Roles
+Type: Buttons/Filters
+
+Description: This section contains buttons for different job roles, such as Healthcare Representative, Human Resources, Laboratory Technician, Manager, Manufacturing Director, Research Director, Research Scientist, Sales Executive, and Sales Representative.
+
+Key Insight: Allows users to filter and view data specific to each job role, making it easier to analyze job-specific trends and metrics.
+
+3. Education Field and Job Satisfaction and Attrition
+Type: Table
+
+***Description:*** This table shows the distribution of employees across different education fields (Human Resources, Life Sciences, Marketing, Medical, Other, Technical Degree) and their job satisfaction levels (Dissatisfied, Satisfied, Unsatisfied, Very Satisfied).
+
+***Key Insight:*** Provides a detailed view of the educational background of employees and their job satisfaction, which can be used to identify any correlations between education, job satisfaction, and attrition.
+
+***4. Sum of Attrition Count by Age Band***
+
+- ***Type:*** Bar Chart
+
+***Description:*** This chart displays the total count of employee attrition categorized by age bands (Under 25, 25-34, 35-44, 45-54, Over 55).
+
+***Key Insight:*** Helps to understand which age groups are experiencing the highest rates of attrition, indicating potential issues or areas for improvement in employee retention strategies for specific age demographics.
+
+***5. Sum of Employee Count by Marital Status and Gender***
+
+- ***Type:*** Table
+
+***Description:*** This table shows the sum of employee counts categorized by marital status (Divorced, Married, Single) and gender (Female, Male).
+
+***Key Insight:*** Highlights the marital status distribution of employees, providing additional demographic insights that could be relevant for employee engagement and retention strategies.
+
+***6. Total Employee Count***
+
+Description: Displays the total number of employees in the organization, which is 1,470.
+
+Key Insight: Provides a quick snapshot of the overall size of the workforce.
+
+Slicer
+Location: Right-hand side of the dashboard.
+
+Functionality: The slicer allows users to dynamically filter the data displayed on the dashboard based on selected criteria, such as job roles, education fields, or specific demographics.
+
+Impact: Enhances interactivity by enabling users to view specific subsets of data, thus providing more focused insights and personalized analysis.
+
+***Conclusion***
+
+This dashboard offers a detailed and interactive analysis of various HR metrics. 
+ ***Key insights include:***
+
+- Operational Disruption: High attrition in key departments like Sales and R&D can impact operations.
+
+- Increased Costs: Recruiting and training replacements are costly.
+
+- Loss of Expertise: Experienced employees leaving affect quality and innovation.
+
+- Employee Morale: High attrition can lower morale and productivity.
+
+- Customer Satisfaction: Inconsistent staffing affects service quality.
+
+***Recommended Actions:***
+
+- Improve Employee Engagement: Implement programs to boost satisfaction and recognition.
+
+- Competitive Compensation: Regularly review and adjust salaries and benefits.
+
+- Career Development: Provide clear career paths and training opportunities.
+
+- Work-Life Balance: Offer flexible working hours and manage workloads.
+
+- Onboarding: Enhance onboarding to ensure new hires feel integrated.
+
+
+***By implementing these strategies, the company can reduce attrition, retain talent, and create a stable, productive workforce, ultimately leading to improved operational efficiency and higher satisfaction among both employees and customers.***
+
+
+
+
+#### VISUALIZATION
+
+**DASHBOARD ONE**
+
+
+![72c85b5f-52b1-4ac0-8563-1ee35eb33cd2](https://github.com/user-attachments/assets/7546b71d-1d53-497d-9e3d-5fd90cedec9b)
+
+
+**DASHBOARD TWO**
+
+
+![c08bb02e-719f-4d16-a089-0427651145a5](https://github.com/user-attachments/assets/a379a199-1781-4ab5-a6a0-4fce3df15472)
+
+
