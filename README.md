@@ -302,10 +302,10 @@ Here the aim to understand data better and to create meaningful visualizations. 
 
 ***Creating Visuals:*** With my cleaned data, I began creating basic visualizations. I experimented with bar charts, line charts, and pie charts, using my sales data to understand how different visuals could represent the data effectively.
 
-***Using Different Datasets:*** To broaden my skills, I imported various datasets, such as stock prices and weather data. This exposed me to different data structures and helped me learn to create visualizations tailored to each dataset.
+***Using Different Datasets:*** To broaden my skills, I imported various datasets, such as stock prices and HR data. This exposed me to different data structures and helped me learn to create visualizations tailored to each dataset.
 
 ***Advanced Visualizations and Features***
-Relationships: I then explored creating relationships between different tables. For example, I linked sales data with customer demographics, allowing me to perform more complex analyses and visualize interconnected data.
+Relationships: I then explored creating relationships between different tables. For example, I linked sales data with customer Region, allowing me to perform more complex analyses and visualize interconnected data.
 
 ***Calculated Columns and Measures:*** Using calculated columns and measures, I learned to perform advanced calculations. For instance, calculating total sales per region helped me understand the power of DAX (Data Analysis Expressions).
 
@@ -512,6 +512,11 @@ This dashboard offers a detailed and interactive analysis of various HR metrics.
 
 
 #### VISUALIZATION
+
+***USING THE MAP VISUAL***
+
+![Screenshot 2024-11-04 145849](https://github.com/user-attachments/assets/2507da53-1a5a-40c6-9a9f-98dc401eb702)
+
 
 **DASHBOARD ONE**
 
