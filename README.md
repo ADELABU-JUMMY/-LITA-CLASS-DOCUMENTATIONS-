@@ -348,78 +348,25 @@ Sales: 92
 
 R&D: 133
 
-Attrition Count by Education Field:
 
 
-
-Attrition Count by Education Field:
-Life Sciences: 89
-
-Medical: 63
-
-Marketing: 35
-
-Technical Degree: 32
-
-Other: 11
-
-Human Resources: 7
-
-Count of Attrition by Gender:
-Male: 588 (40%)
-
-Female: 882 (60%)
-
-Attrition Based on Age Group and Gender:
-Under 25:
-
-Female: 20
-
-Male: 38
-
-25-34:
-
-Female: 69
-
-Male: 112
-
-35-44:
-
-Female: 37
-
-Male: 51
-
-45-54:
-
-Female: 16
-
-Male: 25
-
-Over 55:
-
-Female: 8
-
-Male: 9
-
-Key Insights:
+***Key Insights:***
 The attrition rate stands at 16%, with a total of 237 employees having left the company.
 
-Sales and R&D departments have the highest attrition counts, indicating possible areas needing attention in terms of employee retention strategies.
+- Sales and R&D departments have the highest attrition counts, indicating possible areas needing attention in terms of employee retention strategies.
 
-Life Sciences and Medical are the education fields with the most attrition
+- Life Sciences and Medical are the education fields with the most attrition
 suggesting a trend worth investigating further.
 
-Females constitute 60% of the total employees, but the overall attrition count shows more males leaving compared to females.
+- Females constitute 60% of the total employees, but the overall attrition count shows more males leaving compared to females.
 
-The 25-34 age group has the highest attrition, particularly among males, highlighting a critical demographic for retention efforts.
-
-This visualization helps the company understand the distribution and trends in employee attrition, guiding strategic decisions to improve retention and address specific areas of concern.
+- The 25-34 age group has the highest attrition, particularly among males, highlighting a critical demographic for retention efforts.
 
 
 
 ***Conclusion:***
-Impact of Attrition and Recommended Actions
-Impact of Attrition on the Company
+-Impact of Attrition and Recommended Actions
+- Impact of Attrition on the Company
 
 ***Operational Disruption:***
 
@@ -478,57 +425,58 @@ By implementing these strategies, the company can reduce attrition, retain valua
 
 The dashboard provides an extensive analysis of employee demographics, attrition rates, job roles, education fields, job satisfaction levels, and marital status. It's designed to offer a comprehensive view of the workforce to support HR analytics and decision-making.
 
-***Sections and Visualizations***
+#### Sections and Visualizations
 
-1. Count of Current Employees by Age Band and Gender
-Type: Bar Chart
+***1. Count of Current Employees by Age Band and Gender***
 
-***Description:*** This chart displays the number of current employees categorized by age bands and gender. The age bands include Under 25, 25-34, 35-44, 45-54, and Over 55. Gender is represented by different colors (Female and Male).
+- ***Type:*** Bar Chart
 
-***Key Insight:*** Helps identify the distribution of employees across different age groups and gender, highlighting potential diversity and age demographic trends within the workforce.
+- ***Description:*** This chart displays the number of current employees categorized by age bands and gender. The age bands include Under 25, 25-34, 35-44, 45-54, and Over 55. Gender is represented by different colors (Female and Male).
 
-2. Job Roles
-Type: Buttons/Filters
+- ***Key Insight:*** Helps identify the distribution of employees across different age groups and gender, highlighting potential diversity and age demographic trends within the workforce.
 
-Description: This section contains buttons for different job roles, such as Healthcare Representative, Human Resources, Laboratory Technician, Manager, Manufacturing Director, Research Director, Research Scientist, Sales Executive, and Sales Representative.
+***2. Job Roles***
+- ***Type:*** Buttons/Filters
 
-Key Insight: Allows users to filter and view data specific to each job role, making it easier to analyze job-specific trends and metrics.
+- ***Description:*** This section contains buttons for different job roles, such as Healthcare Representative, Human Resources, Laboratory Technician, Manager, Manufacturing Director, Research Director, Research Scientist, Sales Executive, and Sales Representative.
 
-3. Education Field and Job Satisfaction and Attrition
-Type: Table
+- ***Key Insight:*** Allows users to filter and view data specific to each job role, making it easier to analyze job-specific trends and metrics.
 
-***Description:*** This table shows the distribution of employees across different education fields (Human Resources, Life Sciences, Marketing, Medical, Other, Technical Degree) and their job satisfaction levels (Dissatisfied, Satisfied, Unsatisfied, Very Satisfied).
+***3. Education Field and Job Satisfaction and Attrition***
+- ***Type:*** Table
 
-***Key Insight:*** Provides a detailed view of the educational background of employees and their job satisfaction, which can be used to identify any correlations between education, job satisfaction, and attrition.
+- ***Description:*** This table shows the distribution of employees across different education fields (Human Resources, Life Sciences, Marketing, Medical, Other, Technical Degree) and their job satisfaction levels (Dissatisfied, Satisfied, Unsatisfied, Very Satisfied).
+
+- ***Key Insight:*** Provides a detailed view of the educational background of employees and their job satisfaction, which can be used to identify any correlations between education, job satisfaction, and attrition.
 
 ***4. Sum of Attrition Count by Age Band***
 
 - ***Type:*** Bar Chart
 
-***Description:*** This chart displays the total count of employee attrition categorized by age bands (Under 25, 25-34, 35-44, 45-54, Over 55).
+- ***Description:*** This chart displays the total count of employee attrition categorized by age bands (Under 25, 25-34, 35-44, 45-54, Over 55).
 
-***Key Insight:*** Helps to understand which age groups are experiencing the highest rates of attrition, indicating potential issues or areas for improvement in employee retention strategies for specific age demographics.
+- ***Key Insight:*** Helps to understand which age groups are experiencing the highest rates of attrition, indicating potential issues or areas for improvement in employee retention strategies for specific age demographics.
 
 ***5. Sum of Employee Count by Marital Status and Gender***
 
 - ***Type:*** Table
 
-***Description:*** This table shows the sum of employee counts categorized by marital status (Divorced, Married, Single) and gender (Female, Male).
+- ***Description:*** This table shows the sum of employee counts categorized by marital status (Divorced, Married, Single) and gender (Female, Male).
 
-***Key Insight:*** Highlights the marital status distribution of employees, providing additional demographic insights that could be relevant for employee engagement and retention strategies.
+- ***Key Insight:*** Highlights the marital status distribution of employees, providing additional demographic insights that could be relevant for employee engagement and retention strategies.
 
 ***6. Total Employee Count***
 
-Description: Displays the total number of employees in the organization, which is 1,470.
+- ***Description:*** Displays the total number of employees in the organization, which is 1,470.
 
-Key Insight: Provides a quick snapshot of the overall size of the workforce.
+- ***Key Insight:*** Provides a quick snapshot of the overall size of the workforce.
 
-Slicer
-Location: Right-hand side of the dashboard.
+***Slicer****
+- ***Location:*** Right-hand side of the dashboard.
 
-Functionality: The slicer allows users to dynamically filter the data displayed on the dashboard based on selected criteria, such as job roles, education fields, or specific demographics.
+***Functionality:*** The slicer allows users to dynamically filter the data displayed on the dashboard based on selected criteria, such as job roles, education fields, or specific demographics.
 
-Impact: Enhances interactivity by enabling users to view specific subsets of data, thus providing more focused insights and personalized analysis.
+***Impact:*** Enhances interactivity by enabling users to view specific subsets of data, thus providing more focused insights and personalized analysis.
 
 ***Conclusion***
 
